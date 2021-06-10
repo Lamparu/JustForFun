@@ -1,2 +1,3 @@
 # JustForFun
-HW PostgreSQL
+HW PostgreSQL (NRNU MEPhI)
+## Creating database for educational center
